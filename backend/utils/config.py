@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     DB_HOST: str = "localhost"
     DB_PORT: str = "3306"
     DB_USER: str = "root"
-    DB_PASSWORD: str = "password"
+    DB_PASSWORD: str = "Zhanke0211..."
     LLM_API_URL: str = "填入你的llm调用地址"
     LLM_API_KEY: str = "填入你的key"
 
